@@ -1,0 +1,23 @@
+{
+  "name": "mongodb_basic",
+  "version": "1.0.0",
+  "description": "to learn how mongodb works using nodejs",
+  "main": "main.js",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akill-coder/mongo_nodejs.git"
+  },
+  "author": "akhil kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akill-coder/mongo_nodejs/issues"
+  },
+  "homepage": "https://github.com/akill-coder/mongo_nodejs#readme"
+}
